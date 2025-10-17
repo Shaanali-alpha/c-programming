@@ -3,9 +3,9 @@
 int main()
 {
     /*
-    Name: Zain Mohamed Saeed Kazi
-    UIN: 251P040
-    Roll No: 37
+    Name: Shaan Ali
+    UIN: 251P013
+    Roll No: 12
     Division: C
     Class: Comps_1
     */
@@ -29,4 +29,5 @@ int main()
     (avg>=50.00)? printf("Student is eligible"):printf("Student is not eligible");
 
     return 0;
+
 }
