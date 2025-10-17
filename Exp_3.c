@@ -3,10 +3,11 @@
 int main()
 {
     /* 
-    Name: Zain Mohamed Saeed Kazi
-    Roll No: 37
-    UIN: 251P040
+     Name: Shaan Ali
+    UIN: 251P013
+    Roll No: 12
     Division: C
+    Class: Comps_1
     */
     
     int num1, num2, result;
@@ -66,5 +67,6 @@ int main()
         printf("\n");
         goto repeat;
     }
+
 
 }
